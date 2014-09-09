@@ -1,8 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<scene PGFVersion="0.19" GSCVersion="0.10.4" id="id101431">
+<scene PGFVersion="0.19" GSCVersion="0.10.4" id="id781812">
   <layers>
-    <layer id="id591663">
-      <actors />
+    <layer id="id433223">
+      <actors>
+        <actor id="id366184" prototype="id591440">
+          <attributes>
+            <point id="position">
+              <real id="x">239</real>
+              <real id="y">207.5</real>
+            </point>
+            <image id="image" />
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id315793" prototype="id289207">
+          <attributes>
+            <point id="position">
+              <real id="x">240</real>
+              <real id="y">82</real>
+            </point>
+            <size id="size">
+              <real id="width">100</real>
+              <real id="height">45</real>
+            </size>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+      </actors>
       <attributes>
         <text id="name">Background</text>
         <boolean id="scrollable">true</boolean>
@@ -10,7 +56,7 @@
     </layer>
   </layers>
   <attributes>
-    <text id="name">Aereal combat scene</text>
+    <text id="name">Victory</text>
     <real id="time">0</real>
     <size id="size">
       <real id="width">480</real>
@@ -39,7 +85,7 @@
       </size>
       <size id="trackingArea">
         <real id="width">400</real>
-        <real id="height">260</real>
+        <real id="height">240</real>
       </size>
       <real id="rotation">0</real>
     </rect>

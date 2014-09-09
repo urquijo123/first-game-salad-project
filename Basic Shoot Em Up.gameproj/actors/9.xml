@@ -57,7 +57,7 @@
           </attributes>
           <predicate type="collision">
             <attributes>
-              <text id="prototypeKey">id768623</text>
+              <text id="prototypeKey">id378276</text>
               <text id="actorTag" />
               <real id="mode">0</real>
               <text id="name">default name</text>

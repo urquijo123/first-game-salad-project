@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<actor id="id379417" PGFVersion="0.19" GSCVersion="0.10.4">
+<actor id="id981405" PGFVersion="0.19" GSCVersion="0.10.4">
   <attributes>
-    <text id="name">Soccer man</text>
+    <text id="name">Background</text>
     <real id="time">0</real>
     <point id="position">
       <real id="x">0</real>
       <real id="y">0</real>
     </point>
     <size id="size">
-      <real id="width">120</real>
-      <real id="height">120</real>
+      <real id="width">480</real>
+      <real id="height">320</real>
     </size>
     <angle id="rotation">0</angle>
     <color id="color">
@@ -18,7 +18,7 @@
       <real id="blue">1</real>
       <real id="alpha">1</real>
     </color>
-    <image id="image" />
+    <image id="image">sunset</image>
     <text id="tags" />
     <boolean id="preloadArt">true</boolean>
   </attributes>
